@@ -1,4 +1,6 @@
-﻿.jumbotron {
+﻿/* stlying file for jumbotron */
+
+.jumbotron {
     margin: 0px !important;
     background: black !important;
 }

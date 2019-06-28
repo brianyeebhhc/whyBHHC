@@ -1,4 +1,6 @@
-﻿.postTitle_font {
+﻿/* stlying file for texts */
+
+.postTitle_font {
     font-family: 'EB Garamond', serif;
     font-size: 30px;
     font-weight: bold;
