@@ -1,0 +1,30 @@
+﻿.postTitle_font {
+    font-family: 'EB Garamond', serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.post_font {
+    font-family: 'EB Garamond', serif;
+    font-size: 30px;
+}
+
+.clickMe_text {
+    color: #5db3fe;
+}
+
+
+.jumbotron_text{
+    text-align:center;
+    color:white;
+}
+
+.modalHeader_font {
+    font-family: 'EB Garamond', serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.modalPost_font {
+    font-family: 'EB Garamond', serif;
+}

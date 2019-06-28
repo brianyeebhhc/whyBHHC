@@ -1,0 +1,35 @@
+﻿/* center text and underline reason title */
+.boxHeader {
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+/* row indicator, single line */
+@media(min-width: 768px) {
+    .row-relative {
+        position: relative;
+    }
+
+    .col-border-padding {
+        padding-left: 15px;
+    }
+
+    .col-border {
+        padding-left: 0;
+        position: static;
+    }
+
+    .col-border:before {
+        content: "";
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        border-left: 1px solid black;
+    }
+}
+/* left, right, bottom border of container */
+.container-fluid {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
