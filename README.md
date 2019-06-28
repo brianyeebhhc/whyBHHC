@@ -1,6 +1,6 @@
 # whyBHHC
 
-This is a project given by BHHC on "why would I like to work for BHHC". The stack I used was primarily css(bootstrap) and jquery. This was built on .NET Core app framework. Main goal of mine was to have a clean and efficent web design which allows user to easily gather information. 
+This is a project given by BHHC on "why would I like to be a part of BHHC". The stack I used was primarily css(bootstrap) and jquery. This was built on the .NET Core web framework. Main goal of mine was to have a clean and efficent web design which allows user to easily gather information. 
 
 This site is not hosted, so in order to run, it needs to be built on visual studios and go to https://localhost:5001/button
 
